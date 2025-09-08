@@ -1,0 +1,47 @@
+{
+  "Y62183": {
+    "status": "Warten auf Zahlung",
+    "statusClass": "pending",
+    "sender": "Thomas Kehl, Quintinsstraße 6, 55131 Mainz, Deutschland",
+    "receiver": "Raphael Bruckner, Klingenberggasse 10, 3862 Eisgarn, Österreich",
+    "price": "2.500 €",
+    "description": "Hersteller: Simson<br>Typ: S51 B 2-4<br>Fahrgestelnummer: 6098480<br>Erstzulassung: 03.1988<br>KM laut Vorbesitzer: 23.951 km <br>Leistung: 3 kW (4 PS)<br>Hubraum: 49 cm³<br>Farbe: Rot<br><br>Das Motorrad ist voll funktionsfähig, kein Umfaller oder Unfall.<br>Alle Papiere und Schlüssel sind im Lieferumfang enthalten.",
+    "address": "Raphael Bruckner<br>Klingenberggasse 10<br>3862 Eisgarn<br>Österreich<br>Telefon: +43 660 7444700",
+    "documents": [
+      {
+        "name": "Lieferschein",
+        "url": "docs/Lieferschein.pdf"
+      },
+      {
+        "name": "Kaufvertrag",
+        "url": "docs/Kaufvertrag.pdf"
+      },
+      {
+        "name": "Rechnung",
+        "url": "docs/Rechnung.pdf"
+      },
+      {
+        "name": "AGB",
+        "url": "docs/AGB.pdf"
+      }
+    ],
+    "orderDate": "08-09-2025",
+    "deliveryDate": "12-09-2025",
+    "pickup": {
+      "street": "",
+      "postal_code": "",
+      "city": "",
+      "country": "",
+      "lat": "",
+      "lng": ""
+    },
+    "delivery": {
+      "street": "Klingenberggasse 10",
+      "postal_code": "3862",
+      "city": "Eisgarn",
+      "country": "Österreich",
+      "lat": "48.91594273460862",
+      "lng": "15.101325810350092"
+    }
+  }
+}
